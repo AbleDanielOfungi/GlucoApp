@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "465628893152",
+    "firebase_url": "https://konnectify-c327b-default-rtdb.firebaseio.com",
+    "project_id": "konnectify-c327b",
+    "storage_bucket": "konnectify-c327b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465628893152:android:1753ead0df4e2b62672585",
+        "android_client_info": {
+          "package_name": "com.example.konnectify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465628893152-hi7bgecooptnq64qvds6k731dcag5vdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHtwGUCrcOcYNOZm0egbrSa4rd7ZIFVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465628893152-hi7bgecooptnq64qvds6k731dcag5vdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465628893152:android:8606e2372133ad10672585",
+        "android_client_info": {
+          "package_name": "com.example.sukali_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465628893152-hi7bgecooptnq64qvds6k731dcag5vdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHtwGUCrcOcYNOZm0egbrSa4rd7ZIFVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465628893152-hi7bgecooptnq64qvds6k731dcag5vdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
